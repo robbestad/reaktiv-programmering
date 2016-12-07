@@ -1,5 +1,5 @@
 {
-  "name": "reaktivprog",
+  "name": "reaktiv-programmering",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Sven Anders Robbestad <robbestad@gmail.com> (http://svenardo.com)",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "xstream": "^9.0.0"
+  }
 }
