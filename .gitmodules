@@ -1,3 +1,6 @@
 [submodule "frontendforum-reactive"]
 	path = frontendforum-reactive
 	url = https://github.com/mariuslundgard/frontendforum-reactive.git
+[submodule "ramda-examples"]
+	path = ramda-examples
+	url = https://github.com/peter/ramda-examples
