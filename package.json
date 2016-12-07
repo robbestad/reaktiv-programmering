@@ -1,0 +1,12 @@
+{
+  "name": "reaktivprog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sven Anders Robbestad <robbestad@gmail.com> (http://svenardo.com)",
+  "license": "ISC"
+}

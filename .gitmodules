@@ -1,0 +1,3 @@
+[submodule "frontendforum-reactive"]
+	path = frontendforum-reactive
+	url = https://github.com/mariuslundgard/frontendforum-reactive.git
